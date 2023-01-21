@@ -3,14 +3,14 @@ Fresh Footer
 ========================================================================== */
 
 footer.footer-dark {
-    background: $blue-grey;
+    background: #96c2ce;
     color: $white;
     .columns {
         margin-top: 35px;
     }
     .footer-logo {
         img {
-            height: 40px;
+            height: 100px;
         }
     }
     .footer-column {
@@ -25,7 +25,7 @@ footer.footer-dark {
             line-height: 40px;
             font-size: 1.1rem;
             a {
-                color: $light-blue-grey;
+                color: #52636e;
                 font-weight: 400;
                 transition: all 0.5s;
             }
