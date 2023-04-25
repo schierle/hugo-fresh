@@ -3,6 +3,7 @@ Hero styles
 ========================================================================== */
 
 .hero-body {
+    background-color: $hero-background-color;
     padding-top: 6rem;
     padding-bottom: 6rem;
     .title, .subtitle {
