@@ -21,10 +21,10 @@ Navbar
     }
     //Brand
     .navbar-brand {
-        min-height: 4rem;
+        min-height: 6rem;
         img {
-            max-height: 36px !important;
-            height: 36px;
+            max-height: 72px !important;
+            height: 72px;
         }
         //Removing navbar item default hover behaviour
         &:hover {
