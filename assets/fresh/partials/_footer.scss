@@ -22,15 +22,16 @@ footer.footer-dark {
             margin-bottom: 20px;
         }
         ul.link-list {
-            line-height: 40px;
+            line-height: 30px;
             font-size: 1.1rem;
+            h4 {
+                color: $light-blue-grey;
+                font-weight: 400;
+            }
             a {
                 color: $light-blue-grey;
                 font-weight: 400;
                 transition: all 0.5s;
-            }
-            :hover {
-                color: $smoke-white;
             }
         }
         .level-item .icon {
